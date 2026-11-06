@@ -1,0 +1,19 @@
+.box {
+    height: 75px;
+    width: 250px;
+    background-color: hotpink;
+}
+.square {
+    height: 100px;
+    width: 100px;
+}
+.relative {
+    position: relative;
+    background-color: blueviolet;
+    left: 75px;
+    top: 30px;
+}
+.absolute {
+    position: absolute;
+    z-index: -1;
+}
